@@ -1,0 +1,1 @@
+alert("bhaad mein jaao")
